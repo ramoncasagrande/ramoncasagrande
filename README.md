@@ -10,7 +10,8 @@
 </div>
 <br>
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=ramoncasagrande&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=ramoncasagrande&layout=compact&langs_count=16&theme=tokyonight"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramoncasagrande&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <br>
@@ -28,5 +29,6 @@
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="javascript-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  </div>
 <br>
 Em constante aprendizado!
